@@ -1,4 +1,4 @@
-##### ZiZ-75.github.io
+##### ziz-75.github.io
 # Selamat Datang
 ### Assalamualaikum, perkenalkan nama saya Muhammad Aziz Nurrohman, mahasiswa semester 1 Prodi Informatika Universitas Bhinneka PGRI
 
